@@ -13,14 +13,14 @@
 あとはチェックアウトすれば製造されるはずです。
 
 参考画像
-![image1](assets/howto1.png)
+![image1](howto1.png)
 image1
 
-![image2](assets/howto2.png)
+![image2](howto2.png)
 image2
 
-![image3](assets/howto3.png)
+![image3](howto3.png)
 image3
 
-![image4](assets/howto4.png)
+![image4](howto4.png)
 image4
