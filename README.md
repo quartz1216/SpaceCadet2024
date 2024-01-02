@@ -4,7 +4,7 @@
 小指の骨を折りながらコントロールキーを押す必要はなくなります。
 
 ## Manufacture
-このガイドに従うことによって、JLCPCBにてPCBAを作成することができます ![howto link](assets/how_to_make_pcb.md)
+このガイドに従うことによって、JLCPCBにてPCBAを作成することができます [assets/how_to_make_pcb.md](assets/how_to_make_pcb.md)
 
 ## Parts
 私が使用したパーツを記します。
