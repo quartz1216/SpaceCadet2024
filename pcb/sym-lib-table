@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name ".Key")(type "KiCad")(uri "${KIPRJMOD}/assets/kbd-master/kicad-symbols/kbd.kicad_sym")(options "")(descr ""))
+  (lib (name "Type-C")(type "Legacy")(uri "${KIPRJMOD}/assets/Type-C.pretty/Type-C.lib")(options "")(descr ""))
+)
