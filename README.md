@@ -1,6 +1,13 @@
 # SpaceCadet2024
+## Clone
+QMK Source code [qmk branch](https://github.com/quartz1216/SpaceCadet2024/tree/qmk)`git clone https://github.com/quartz1216/SpaceCadet2024.git -b qmk` 
+
+
+Board & Case Source [board branch](https://github.com/quartz1216/SpaceCadet2024/tree/board)`git clone https://github.com/quartz1216/SpaceCadet2024.git -b board`
+
+
 ## Schematic
-![schematic](assets/Schematic.pdf)
+![schematic](Schematic.pdf)
 
 ## Parts
 私が使用したパーツを記します。
