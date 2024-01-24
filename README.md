@@ -1,10 +1,6 @@
 # SpaceCadet2024
-## Introduction
-このキーボードは変則的なオルソリニアキーボードです。
-小指の骨を折りながらコントロールキーを押す必要はなくなります。
-
-## Manufacture
-このガイドに従うことによって、JLCPCBにてPCBAを作成することができます [assets/how_to_make_pcb.md](assets/how_to_make_pcb.md)
+## Schematic
+![schematic](assets/Schematic.pdf)
 
 ## Parts
 私が使用したパーツを記します。
