@@ -1,9 +1,9 @@
 # SpaceCadet2024
 ## Clone
-QMK Source code [qmk branch](https://github.com/quartz1216/SpaceCadet2024/tree/qmk)`git clone https://github.com/quartz1216/SpaceCadet2024.git -b qmk` 
+QMK Source code [qmk branch](https://github.com/quartz1216/spacecadet2024/tree/qmk)`git clone https://github.com/quartz1216/spacecadet2024.git -b qmk` 
 
 
-Board & Case Source [board branch](https://github.com/quartz1216/SpaceCadet2024/tree/board)`git clone https://github.com/quartz1216/SpaceCadet2024.git -b board`
+Board & Case Source [board branch](https://github.com/quartz1216/spacecadet2024/tree/board)`git clone https://github.com/quartz1216/spacecadet2024.git -b board`
 
 
 ## Schematic
